@@ -3,7 +3,7 @@
     "versions": [
         {
             "version": "1.0.0",
-            "root": "v1_0_0",
+            "root": "v1_0_0/",
             "files": [
                 {
                     "name": "data/version",
