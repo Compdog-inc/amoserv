@@ -6,6 +6,10 @@
             "root": "v1_0_0",
             "files": [
                 {
+                    "name": "data/version",
+                    "output": "data/version"
+                },
+                {
                     "name": "audio/bgfx1.wav",
                     "output": "audio/bgfx1.wav"
                 },
