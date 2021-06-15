@@ -6,8 +6,8 @@
             "root": "v1_0_0/",
             "files": [
                 {
-                    "name": "data/version",
-                    "output": "data/version"
+                    "name": "data/.version",
+                    "output": "data/.version"
                 },
                 {
                     "name": "audio/start.wav",
