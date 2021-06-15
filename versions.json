@@ -10,6 +10,10 @@
                     "output": "data/version"
                 },
                 {
+                    "name": "audio/start.wav",
+                    "output": "audio/start.wav"
+                },
+                {
                     "name": "audio/bgfx1.wav",
                     "output": "audio/bgfx1.wav"
                 },
