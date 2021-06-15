@@ -1,0 +1,23 @@
+{
+    "version": "1.0.0",
+    "versions": [
+        {
+            "version": "1.0.0",
+            "root": "v1_0_0",
+            "files": [
+                {
+                    "name": "audio/bgfx1.wav",
+                    "output": "audio/bgfx1.wav"
+                },
+                {
+                    "name": "audio/bgfx2.wav",
+                    "output": "audio/bgfx2.wav"
+                },
+                {
+                    "name": "audio/bgfx3.wav",
+                    "output": "audio/bgfx3.wav"
+                }
+            ]
+        }
+    ]
+}
