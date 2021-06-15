@@ -20,10 +20,6 @@
                 {
                     "name": "audio/bgfx2.wav",
                     "output": "audio/bgfx2.wav"
-                },
-                {
-                    "name": "audio/bgfx3.wav",
-                    "output": "audio/bgfx3.wav"
                 }
             ]
         }
